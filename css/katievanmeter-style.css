@@ -1,0 +1,62 @@
+/** katie's Styles **/
+
+.btn{
+
+    text-decoration: none;
+    font-size: 16px;
+    width: 20%;
+    background-color: #21B8B0;
+    border: none;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2.5;
+    text-align: center;
+    box-shadow: 2px 2px 0px #CBD6D6;
+    height: 2.5em;
+    display: block;
+}
+    .btn:hover{
+        background-color: #1EA8A1;
+    }
+
+.katie-advice {
+    width: 100%;
+    background-color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #5e5e6b;
+    text-decoration: none;
+    margin: 3%;
+
+}
+
+.katie-advice h1 {
+
+    font-family: 'Droid Serif', serif;
+    font-weight: 400;
+    text-align: left;
+}
+
+.katie-advice h1 span{
+    font-family: 'Droid Serif', serif;
+    font-weight: 700;
+    font-style: italic;
+}
+.katie-advice h4 {
+    font-family: 'Droid Serif', serif;
+    font-size: 22px;
+    text-align: left;
+
+}
+.katie-advice p {
+
+    text-align: left;
+}
+.katie-advice footer {
+    background-color: #21B8B0;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+/** katie's Styles end **/
